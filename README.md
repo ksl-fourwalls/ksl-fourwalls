@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there! 👋
 
-I'm [Kushal](https://github.com/ksl-fourwalls/)
-
-- 😄 Pronouns: he/him
-- 📫 How to reach me: [stalkingbigcat@proton.me](mailto:stalkingbigcat@proton.me)
+I'm [Kushal](mailto:stalkingbigcat@proton.me)
 
 ### GitHub Gist
 
