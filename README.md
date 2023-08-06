@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there! 👋
-
-I'm [Kushal](mailto:stalkingbigcat@proton.me)
+[Kushal](mailto:stalkingbigcat@proton.me)
 
 ### GitHub Gist
 
