@@ -19,3 +19,7 @@ I'm [Kushal](https://github.com/ksl-fourwalls/)
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [stalkingbigcat@proton.me](mailto:stalkingbigcat@proton.me)
 
+### GitHub Gist
+
+- [CiscoPacketTracerLoginBypass](https://gist.github.com/ksl-fourwalls/b90aa797e3b14a2dcd41d4d803126ee9)
+- [Stack of Queue](https://gist.github.com/ksl-fourwalls/7791728badaa4afb3fb0ffb1ec016056)
