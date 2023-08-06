@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 ### Hi There!
 this is [Kushal](mailto:stalkingbigcat@proton.me)
 ### Github Gist  
-> [CiscoPacketTracerLoginBypass](https://gist.github.com/ksl-fourwalls/b90aa797e3b14a2dcd41d4d803126ee9)  
-> [Stack of Queue](https://gist.github.com/ksl-fourwalls/7791728badaa4afb3fb0ffb1ec016056)
+- [CiscoPacketTracerLoginBypass](https://gist.github.com/ksl-fourwalls/b90aa797e3b14a2dcd41d4d803126ee9)
+- [Stack of Queue](https://gist.github.com/ksl-fourwalls/7791728badaa4afb3fb0ffb1ec016056)
