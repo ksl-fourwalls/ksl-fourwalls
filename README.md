@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ksl-fourwalls/ksl-fourwalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there! 👋
+
+I'm [Kushal](https://github.com/ksl-fourwalls/)
+
+- 😄 Pronouns: he/him
+- 📫 How to reach me: [stalkingbigcat@proton.me](mailto:stalkingbigcat@proton.me)
+
